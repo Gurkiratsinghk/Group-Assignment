@@ -1,0 +1,9 @@
+DOWNLOAD MANIFEST
+-----------------
+Download Timestamp (UTC): 2026-07-22 17:00:03 UTC
+yfinance Version: 1.5.1
+Requested Tickers (12): TCS.NS, INFY.NS, HCLTECH.NS, WIPRO.NS, TECHM.NS, PERSISTENT.NS, HINDUNILVR.NS, ITC.NS, NESTLEIND.NS, BRITANNIA.NS, DABUR.NS, MARICO.NS
+Requested Date Range: 2024-01-01 to 2026-01-01
+Total Raw Rows Downloaded: 5940
+Failed Tickers: None
+Raw Data Columns: ['Adj Close', 'Close', 'High', 'Low', 'Open', 'Volume', 'Ticker', 'Date']

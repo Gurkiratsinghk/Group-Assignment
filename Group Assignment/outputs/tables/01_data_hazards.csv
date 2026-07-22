@@ -1,0 +1,6 @@
+Hazard Category,Findings,Exclusion Decision & Justification
+Hazard (a): Short Tickers / Fetch Failures,"All 12 tickers returned balanced row counts (Min: 494, Max: 494 rows per ticker).",Kept (all 12 tickers fetched with full history)
+Hazard (a): LTIM.NS API Failure & Replacement,LTIM.NS returned HTTP 404 (quote not found) from yfinance API. Re-fetched individually and verified unavailable. Replaced with PERSISTENT.NS to maintain a balanced 6-ticker IT vs 6-ticker FMCG dataset (494 clean rows per ticker).,Replaced LTIM.NS with PERSISTENT.NS
+Hazard (b): Corporate Actions / Ex-Dividend Discontinuities,Identified 22 ex-dividend/bonus step dates across tickers where Close/Adj Close ratio changed by >1%.,Kept (unadjusted OHLC used for daily range and intraday move)
+Hazard (c): Zero/Stale Range_pct Sessions,Identified 11 rows with range_pct <= 0.01% (stale quote/trading halt session on 2025-03-18 across 11 tickers).,Kept & Reported (valid historical exchange records)
+Hazard (d): Special Low-Volume Sessions (Muhurat Trading),"Identified 3 low-volume dates (<30% median daily volume), including Diwali Muhurat trading sessions (2024-11-01 and 2025-10-21).",Kept & Reported (authentic exchange trading sessions)
