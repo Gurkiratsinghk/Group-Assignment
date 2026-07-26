@@ -1,0 +1,13 @@
+metric,value
+n_actual,40.0
+observed_cohens_d,0.003555468501411499
+observed_power,0.05232103504465091
+observed_beta,0.9476789649553491
+n_required_for_80pct_power,489075.2387283749
+n_required_for_90pct_power,677448.2320062376
+mc_n,40.0
+mc_cohens_d,0.5
+mc_n_sims,10000.0
+mc_power,0.9335
+analytic_power_same_cell,0.9281058812331067
+mc_vs_analytic_diff,0.00539411876689333

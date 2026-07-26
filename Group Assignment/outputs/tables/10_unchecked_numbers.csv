@@ -1,0 +1,6 @@
+number,status
+Shapiro-Wilk / D'Agostino / Anderson-Darling statistics (Step 2),"unchecked (flagged, no simple closed form)"
+Wilcoxon signed-rank / Mann-Whitney U statistics (Steps 5-8),"unchecked (flagged, no simple closed form)"
+"Cohen's d, Step 6 Test B","checked this audit via t-d identity, diff=0.00e+00"
+"Cohen's d, Step 6 Test C","checked this audit via t-d identity, diff=0.00e+00"
+Step 4 observed-effect-size power/beta,"checked this audit via Monte Carlo, diff=0.000521"

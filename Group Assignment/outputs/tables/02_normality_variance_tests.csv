@@ -1,0 +1,5 @@
+test,statistic,p_value,variance_Technology,variance_Consumer Staples
+"Shapiro-Wilk (n=500 subsample, seed=42)",0.7828590608859317,3.012416366010511e-25,,
+D'Agostino K^2 (full population),3337.0128556243653,0.0,,
+Anderson-Darling (full population),210.0062095031626,,,
+Levene (center=median),15.583448463379046,7.985669059653268e-05,1.2864185831740702,1.0089729223219521

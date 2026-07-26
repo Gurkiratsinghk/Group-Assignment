@@ -1,0 +1,16 @@
+metric,value
+mean_of_500_sample_means,2.0744361445221107
+empirical_se_n40,0.17173662370970144
+theoretical_se_n40,0.1704185164311043
+shapiro_W_500_means,0.9893570923645252
+shapiro_p_500_means,0.0010850872694858527
+sample_mean_single_sample,2.004123286787076
+sample_std_single_sample,1.159702803003111
+t_critical_value,2.022690920036761
+margin_of_error,0.3708909497609821
+ci_lower_t,1.6332323370260942
+ci_upper_t,2.375014236548058
+z_critical_value,1.959963984540054
+ci_lower_z,1.6447342686615745
+ci_upper_z,2.363512304912578
+empirical_coverage_pct,93.8

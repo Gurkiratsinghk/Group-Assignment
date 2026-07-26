@@ -1,0 +1,14 @@
+metric,value
+n,40
+df,39
+sample_mean,2.3073854238823865
+sample_std,1.1661973741894733
+se,0.18439199518731977
+t_crit,1.6848751217112248
+t_observed,1.6670215188578033
+critical_sample_mean_x_crit,2.310677485333811
+p_value,0.05176116427435902
+decision,FAIL TO REJECT H0
+wilcoxon_stat,478.0
+wilcoxon_p,0.18410008471528272
+wilcoxon_decision,FAIL TO REJECT H0

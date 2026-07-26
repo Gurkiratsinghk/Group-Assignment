@@ -1,0 +1,10 @@
+metric,value
+n,40.0
+degrees_of_freedom,39.0
+sample_mean,2.004123286787076
+sample_std_ddof1,1.159702803003111
+sample_std_ddof0,1.1451147656505616
+standard_error_of_mean,0.18336511331856942
+population_mean_true,2.0705908113834672
+population_std_true,1.077912255638392
+sampling_error,-0.06646752459639105

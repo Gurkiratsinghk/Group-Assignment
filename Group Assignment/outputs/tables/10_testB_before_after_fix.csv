@@ -1,0 +1,9 @@
+quantity,before_fix,after_fix
+IT-arm sample,identical to sample_it_n40.csv (Test A),genuinely independent draw
+Levene p-value,0.027874,0.6650458732971923
+Adopted test,Welch,pooled
+t statistic,1.963716,-0.7817108194049301
+p-value,0.053816,0.43675098825795317
+Decision,FAIL TO REJECT H0,FAIL TO REJECT H0
+Cohen's d,0.4391,-0.17479585309364787
+Mean difference (IT - FMCG),0.426926,-0.23576962540444324
